@@ -1,0 +1,34 @@
+.back {
+    
+        background-image: url('pizza\ -\ Copy.jpg');
+        background-repeat: no-repeat;
+        background-attachment: fixed;
+        background-size:cover;
+        left: 0px;
+        top: 0px;
+        z-index: -1;
+        position: relative;
+        height: 100%; 
+      
+}
+.container {
+    display: grid;
+    padding-right: 5px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    padding-top: 50px;
+   }
+.cent {
+    padding-right: 5px;
+  }
+  .heading {
+    padding-right: 15px;
+    color: white;
+    text-decoration: none
+     
+  }
+  .header{
+    background-color:black;
+    padding: 20px 10px;
+  }
